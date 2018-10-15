@@ -5,9 +5,9 @@ Dockerized GoLang lab for Genesis Global LTD hackaton
 Edit the app.go file - it should contain the main app logics
 
 Once done run:
-	make build
+	```make build```
 to build and 
-	make run 
+	```make run``` 
 to run the app afterwards.
 
 # TODO:
