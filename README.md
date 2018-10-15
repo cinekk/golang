@@ -1,7 +1,7 @@
 # Intro
 Dockerized GoLang lab for Genesis Global LTD hackaton
 
-#Usage
+# Usage
 Edit the app.go file - it should contain the main app logics
 
 Once done run:
@@ -10,5 +10,5 @@ to build and
 	make run 
 to run the app afterwards.
 
-#TODO:
+# TODO:
 Tests
